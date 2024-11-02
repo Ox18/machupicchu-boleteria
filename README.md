@@ -1,5 +1,8 @@
 # boleteria
 
+![image](https://github.com/user-attachments/assets/148c0192-4b31-4801-a31e-8e67b571409e)
+
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
